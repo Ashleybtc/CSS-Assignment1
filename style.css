@@ -1,0 +1,43 @@
+h1{
+    color:red ;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    }
+.header{
+    text-align: left;
+    font-size:20;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(12, 11, 11);
+    background: rgb(243, 109, 109);
+    border-radius: 0px;
+}
+ol>li{
+    list-style-type: decimal;
+}
+.parent{
+    color:black;
+    font-style: italic;
+    margin-top: 1em;
+    padding: 50px;
+    background-color: pink;
+    border-radius: 5px;
+}
+#child{
+    font-weight: bold;
+    color:brown;
+}
+ul>li{
+    list-style-type: circle;
+}
+.parent2{
+    color: black;
+    font-style: unset;
+    margin-top: 1em;
+    padding: 50px;
+    background-color: grey;
+    border-radius: 5px;
+}
+#child2{
+    font-weight: bolder;
+}
